@@ -1,7 +1,11 @@
 from multiprocessing import pool
 
 def square_num(n):
+<<<<<<< HEAD
+    return (n*n)
+=======
     return n*n
+>>>>>>> calc_square_multiprocessing_pool
 
 if __name__ == '__main__':
     pass
